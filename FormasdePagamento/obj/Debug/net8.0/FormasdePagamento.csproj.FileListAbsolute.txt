@@ -1,0 +1,14 @@
+C:\Users\431253624\Documents\EAD\FormasdePagamento\obj\Debug\net8.0\FormasdePagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\431253624\Documents\EAD\FormasdePagamento\obj\Debug\net8.0\FormasdePagamento.AssemblyInfoInputs.cache
+C:\Users\431253624\Documents\EAD\FormasdePagamento\obj\Debug\net8.0\FormasdePagamento.AssemblyInfo.cs
+C:\Users\431253624\Documents\EAD\FormasdePagamento\obj\Debug\net8.0\FormasdePagamento.csproj.CoreCompileInputs.cache
+C:\Users\431253624\Documents\EAD\FormasdePagamento\bin\Debug\net8.0\FormasdePagamento.exe
+C:\Users\431253624\Documents\EAD\FormasdePagamento\bin\Debug\net8.0\FormasdePagamento.deps.json
+C:\Users\431253624\Documents\EAD\FormasdePagamento\bin\Debug\net8.0\FormasdePagamento.runtimeconfig.json
+C:\Users\431253624\Documents\EAD\FormasdePagamento\bin\Debug\net8.0\FormasdePagamento.dll
+C:\Users\431253624\Documents\EAD\FormasdePagamento\bin\Debug\net8.0\FormasdePagamento.pdb
+C:\Users\431253624\Documents\EAD\FormasdePagamento\obj\Debug\net8.0\FormasdePagamento.dll
+C:\Users\431253624\Documents\EAD\FormasdePagamento\obj\Debug\net8.0\refint\FormasdePagamento.dll
+C:\Users\431253624\Documents\EAD\FormasdePagamento\obj\Debug\net8.0\FormasdePagamento.pdb
+C:\Users\431253624\Documents\EAD\FormasdePagamento\obj\Debug\net8.0\FormasdePagamento.genruntimeconfig.cache
+C:\Users\431253624\Documents\EAD\FormasdePagamento\obj\Debug\net8.0\ref\FormasdePagamento.dll
